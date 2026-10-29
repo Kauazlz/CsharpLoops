@@ -1,0 +1,15 @@
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\bin\Debug\net10.0\Loops.exe
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\bin\Debug\net10.0\Loops.deps.json
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\bin\Debug\net10.0\Loops.runtimeconfig.json
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\bin\Debug\net10.0\Loops.dll
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\bin\Debug\net10.0\Loops.pdb
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\Loops.AssemblyInfoInputs.cache
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\Loops.AssemblyInfo.cs
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\Loops.sourcelink.json
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\Loops.dll
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\refint\Loops.dll
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\Loops.pdb
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\Loops.genruntimeconfig.cache
+C:\Users\50463894871\Documents\ExerciciosLogicaProg\EstruturasRepeticao\Loops\Loops\obj\Debug\net10.0\ref\Loops.dll
